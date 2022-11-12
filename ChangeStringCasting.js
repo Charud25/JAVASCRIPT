@@ -8,7 +8,7 @@ var firstName = name.slice(0,1);
 
 var uppercaseFirstname = firstName.toUpperCase();
 
-//isolating rest of the name 
+//isolating rest of the name
 
 var restOfname = name.slice(1,name.length);
 
@@ -17,3 +17,4 @@ var restOfname = name.slice(1,name.length);
 var capatalisedName = uppercaseFirstname + restOfname ;
 
 alert("Hello "+ capatalisedName + " !");
+
