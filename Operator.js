@@ -7,3 +7,4 @@ alert("Your dog is "+ humanAge + " yrs old in human years");
 
 //INCREMENT AND DECREMENT OPERATORS
 
+y=x++;
